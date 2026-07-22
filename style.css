@@ -37,4 +37,14 @@ header h1 {
   align-items: center;
 
   text-align: center;
+
+  background-image: url("imgs/Death-banda_banner.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.banner h2 {
+  font-size: 5rem;
+}
+.banner p {
+  font-size: 1.3rem;
 }
